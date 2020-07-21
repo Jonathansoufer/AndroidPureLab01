@@ -12,4 +12,4 @@ Find below the stack used to build the app:
 
 ### Screenshot
 
-![screenshot]: (app/src/main/res/mipmap-xhdpi/screenshot.png)
+![screenshot] (app/src/main/res/mipmap-xhdpi/screenshot.png)
