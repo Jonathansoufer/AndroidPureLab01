@@ -12,6 +12,4 @@ Find below the stack used to build the app:
 
 ### Screenshot
 
-![screenshot]
-
-[screenshot]: https://github.com/Jonathansoufer/AndroidPureLab01/tree/master/app/src/main/res/mipmap-xhdpi/screenshot.png "Android Reminder app"
+![screenshot]: (app/src/main/res/mipmap-xhdpi/screenshot.png)
