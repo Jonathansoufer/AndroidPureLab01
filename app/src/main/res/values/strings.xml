@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidAlarm</string>
+    <string name="hint">Interval (min)</string>
+    <string name="notify">Notify me</string>
+    <string name="pause">Pause</string>
+    <string name="toastMessage">Interval must be informed</string>
+</resources>
